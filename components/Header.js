@@ -7,13 +7,19 @@ export default function Header() {
       <nav>
         <ul>
           <Link href="/">
-            <li>home</li>
+            <li>
+              <a> home</a>
+            </li>
           </Link>
           <Link href="/course">
-            <li>my course outline</li>
+            <li>
+              <a> my course outline</a>
+            </li>
           </Link>
           <Link href="/path">
-            <li>dynamic path page</li>
+            <li>
+              <a> dynamic path page</a>
+            </li>
           </Link>
         </ul>
       </nav>
