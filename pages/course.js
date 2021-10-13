@@ -7,10 +7,10 @@ export default function Course() {
       <ul>
         <li>why use this? is it better than just html?</li>
         <li>
-          I just like working in React. I like components. I'm comfortable in
-          React. it compiles down to html anyway with ssg. ssg is used to make
-          multiple pages. plus it gives option for ssr if needed. page based
-          routing is simpler than react-router
+          I just like working in React. I like components. I&apos;m comfortable
+          in React. it compiles down to html anyway with ssg. ssg is used to
+          make multiple pages. plus it gives option for ssr if needed. page
+          based routing is simpler than react-router
         </li>
         <li>types of pages</li>
         <ul>
@@ -29,7 +29,7 @@ export default function Course() {
         <li>link tag, make a few pages and nav bar</li>
         <li>new single page with useStaticProps just a plain object </li>
         <li>convert to object in same file but outside of function</li>
-        <li>move object to it's own file</li>
+        <li>move object to it&apos;s own file</li>
         <li>translate this to be an api call insted of local file</li>
         <li>make a dynamic page using [].js</li>
         <li>
